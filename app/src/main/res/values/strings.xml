@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="criador">by: Tales Melquiades</string>
+    <string name="jogador">Jogador X</string>
+    <string name="placar"> - - - </string>
+    <string name="btn0">Jogar Novamente!</string>
+    <string name="btn1"> </string>
+    <string name="btn2"> </string>
+    <string name="btn3"> </string>
+    <string name="btn4"> </string>
+    <string name="btn5"> </string>
+    <string name="btn6"> </string>
+    <string name="btn7"> </string>
+    <string name="btn8"> </string>
+    <string name="btn9"> </string>
+</resources>
